@@ -9,7 +9,7 @@ Function loadConfig() as Object
 '   Title: Channel Title
 '   streamFormat: Channel stream type (ex. "hls", "ism", "mp4", etc..)
 '   Logo: Channel Logo (ex. "http://Roku.com/Roku.jpg)
-'   Stream: URL to stream (ex. http://hls.Roku.com/talks/xxx.m3u8)
+'   Stream: URL to stream (ex.https://bit.ly/IPTV-FluxusTV )
 '}
     
 {
